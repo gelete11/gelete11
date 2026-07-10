@@ -2,9 +2,11 @@
 I'm Natnael Zerihun
 
 ---
-💻 Frontend Developer and Digital Marketing Expert
-🌱 I’m currently learning DSA(Data Structures and Algorithms).
+
+💻 Frontend Developer and Digital Marketing Expert </br>
+🌱 I’m currently learning DSA(Data Structures and Algorithms). </br>
 🎓 Currently pursuing in BSc in Computer Science at Addis Ababa University, Ethiopia.
+
 ---
 
 
