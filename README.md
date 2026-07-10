@@ -1,4 +1,14 @@
 ## Hi there 👋
+I'm Natnael Zerihun
+
+---
+💻 Frontend Developer and Digital Marketing Expert
+🌱 I’m currently learning DSA(Data Structures and Algorithms).
+🎓 Currently pursuing in BSc in Computer Science at Addis Ababa University, Ethiopia.
+---
+
+
+
 
 <!--
 **gelete11/gelete11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
