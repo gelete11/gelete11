@@ -29,6 +29,5 @@ I'm Natnael Zerihun
 
 🔗 Connect with Me
 
-- **Gmail:** [nathyzer21@gmail.com](mailto:nathyzer21@gmail.com)
-- **Instagram:** [natty_1518_](https://www.instagram.com/natty_1518_/)
-- **GitHub:** [Nat-bit-ai](https://github.com/Nat-bit-ai)
+- **Gmail:** [natnaelzerihun724@gmail.com](mailto:natnaelzerihun724@gmail.com)
+- **GitHub:** [gelete11](https://github.com/gelete11)
