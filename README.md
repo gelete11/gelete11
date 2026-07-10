@@ -25,6 +25,13 @@ I'm Natnael Zerihun
 
 ---
 
+--- 
+
+🔗 Connect with Me
+
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>[Gmial](mailto:nathyzer21@gmail.com)
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>[Instagram](https://www.instagram.com/natty_1518_/)
+
 
 
 
